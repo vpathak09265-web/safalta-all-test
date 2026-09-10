@@ -1,0 +1,16 @@
+name: exam_mock_app
+description: Exam Answer Key to Mock Test App
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  file_picker: ^8.1.4
+
+flutter:
+  uses-material-design: true
